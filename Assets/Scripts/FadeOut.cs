@@ -35,6 +35,10 @@ public class FadeOut : MonoBehaviour {
 			this.gameObject.transform.position = new Vector3 (this.transform.position.x, this.transform.position.y, -4.5f);
 			core.go (4);
 			active = true;
+		} else if (Input.GetKeyDown ("5")) {
+			this.gameObject.transform.position = new Vector3 (this.transform.position.x, this.transform.position.y, -4.5f);
+			core.go (5);
+			active = true;
 		}
 
 		if (active && !reverseFade && transparency > 0.0f) {

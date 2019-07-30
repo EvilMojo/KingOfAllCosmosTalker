@@ -47,7 +47,7 @@ public class CoreControl : MonoBehaviour {
 		textInput = new string[10];
 		textRoot = GameObject.Find ("Text");
 
-		textSpeed = 4;
+		textSpeed = 3;
 		lineIndex = 0;
 		deleteCount = 0;
 		pause = 0;
@@ -356,6 +356,11 @@ public class CoreControl : MonoBehaviour {
 			positionTextCursor (textInput, lineIndex, true);
 		} else if (file == 4) {
 			textInput = readTextFile ("Assets/Resources/Text/4.txt");
+			letterTimer = textSpeed;
+			letterIndex = 0;
+			positionTextCursor (textInput, lineIndex, true);
+		} else if (file == 5) {
+			textInput = readTextFile ("Assets/Resources/Text/5.txt");
 			letterTimer = textSpeed;
 			letterIndex = 0;
 			positionTextCursor (textInput, lineIndex, true);

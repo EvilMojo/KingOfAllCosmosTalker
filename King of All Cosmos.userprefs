@@ -1,0 +1,45 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Text\4.txt">
+    <Files>
+      <File FileName="Assets\Scripts\CoreControl.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\framecontrol.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\Appear.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\transparentShader.shader" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\FadeIn.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\FadeOut.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\Talk.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\EyeControl.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Scripts\FaceFade.cs" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Resources\Text\How to use.txt" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Resources\Text\romantic.txt" Line="1" Column="1" NotebookId="4" />
+      <File FileName="Assets\Resources\Text\1.txt" Line="9" Column="27" NotebookId="4" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="586" Y="22" Width="640" Height="480">
+        <Files>
+          <File FileName="Assets\Resources\Text\2.txt" Line="15" Column="1" />
+        </Files>
+      </FloatingWindow>
+      <FloatingWindow WindowId="2" X="1126" Y="32" Width="640" Height="480">
+        <Files>
+          <File FileName="Assets\Resources\Text\3.txt" Line="16" Column="14" NotebookId="1" />
+        </Files>
+      </FloatingWindow>
+      <FloatingWindow WindowId="3" X="562" Y="504" Width="640" Height="480">
+        <Files>
+          <File FileName="Assets\Resources\Text\4.txt" Line="19" Column="1" NotebookId="2" />
+        </Files>
+      </FloatingWindow>
+      <FloatingWindow WindowId="4" X="1162" Y="499" Width="640" Height="480">
+        <Files>
+          <File FileName="Assets\Resources\Text\5.txt" Line="11" Column="8" NotebookId="3" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
